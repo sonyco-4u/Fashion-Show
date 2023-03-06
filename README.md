@@ -10,7 +10,7 @@
 
 ## [Live Demo Link]
 
-(https://sonyco-4u.github.io/Skill-Acquiziation-Show)
+(https://sonyco-4u.github.io/Skill-Acquiziation-Show/)
 
 ## Repository Link
 
